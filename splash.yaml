@@ -1,0 +1,10 @@
+flutter_native_splash:
+  # General settings (applies to all platforms except overrides)
+  color: "#DBCFBA"           # Background color
+  image: "assets/icons/iconn.png"  # Path to your new image
+
+  # Android 12+ (Material You) specific settings
+  android_12:
+    color: "#DBCFBA"         # Background color (Android 12+)
+    image: "assets/icons/iconn.png"  # Optional: Different image for Android 12+
+    web: false               # Disable web splash if unused

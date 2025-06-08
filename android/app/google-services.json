@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233204735972",
+    "project_id": "pfaa-aea38",
+    "storage_bucket": "pfaa-aea38.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233204735972:android:79704c52b7b8a603efb1f1",
+        "android_client_info": {
+          "package_name": "com.example.pfaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH0Bw-ypcvimGCSCq09vh0T7SzUR7QVKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
